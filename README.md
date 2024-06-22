@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **josecabello.business@gmail.com**
 
-- ⚡ Fun fact **I´m from Spain, and I like eating lunch at 2pm and dinner at 9pm.**
+- ⚡ Fun fact **I´m from Spain, and I like eating lunch at 2pm and dinner at 9pm on the weekends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
