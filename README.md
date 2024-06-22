@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **C, C++, Qt, OpenGL, .NET Framework,**
 
-- 📫 How to reach me **josecabello.business@gmail.com**
+- 📫 Reach me at **josecabello.business@gmail.com**
 
-- ⚡ About me **I´m from Spain, and I like eating lunch at 2pm and dinner at 9pm.**
+- ⚡ Fun fact **I´m from Spain, and I like eating lunch at 2pm and dinner at 9pm.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jose-cabello-7ab48a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-cabello-7ab48a222/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jose-cabello-7ab48a222/](https://www.linkedin.com/in/jose-cabello-7ab48a222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-cabello-7ab48a222/" height="30" width="40" /></a>
 <a href="https://instagram.com/joseecabello_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joseecabello_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/the_happy_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_happy_dev" height="30" width="40" /></a>
 </p>
