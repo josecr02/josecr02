@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">A student @Waterloo passionate about C/C++ Development.</h3>
+<h3 align="center">A student @Waterloo passionate about C and C++ Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josecr02" alt="josecr02" /></a> </p>
 
