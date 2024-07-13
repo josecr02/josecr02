@@ -22,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecr02&show_icons=true&locale=en&layout=compact" alt="josecr02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josecr02&show_icons=true&locale=en" alt="josecr02" /></p>
+
