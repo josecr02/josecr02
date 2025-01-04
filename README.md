@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">A student @Waterloo passionate about C and C++ Development.</h3>
+<h3 align="center">A Computer Science student @UWaterloo passionate about C and C++ Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josecr02" alt="josecr02" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **josecabello.business@gmail.com**
 
-- ⚡ Fun fact **I´m from Spain, and I like eating lunch at 2pm and dinner at 9pm on the weekends.**
+- ⚡ Facts: **I´m from Spain, my favourite game is Outer Wilds and I like Star Wars.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
