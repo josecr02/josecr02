@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">A Computer Science student @UWaterloo passionate about C and C++ Development.</h3>
+<h3 align="center">A Computer Science student @ UWaterloo very passionate about C++ Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josecr02" alt="josecr02" /></a> </p>
 
-- 🌱 I’m currently learning **C, C++, Qt, OpenGL, .NET Framework,**
+- 🌱 I’m currently learning **C++, Graphics programming, and compile-time programming,**
 
-- 📫 Reach me at **josecabello.business@gmail.com**
+- 📫 Reach me at **jcabello@uwaterloo.ca**
 
 - ⚡ Facts: **I´m from Spain, my favourite game is Outer Wilds and I like Star Wars.**
 
